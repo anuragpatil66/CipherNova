@@ -1,5 +1,5 @@
-# CipherNova
-CipherNova - Advanced File Encryption & Decryption Tool using AES and Camellia Algorithms
+# Done by Anurag Patil - https://www.linkedin.com/in/anurag-patil-2a9b0022a/
+# CipherNova - Advanced File Encryption & Decryption Tool using AES and Camellia Algorithms
 
 Introducing CipherNova, a powerful file encryption & decryption tool designed to secure your sensitive data with robust encryption algorithms. Whether you need to encrypt & decrypt existing files or create new encrypted data, CipherNova offers the flexibility and security you require for your encryption & decryption needs.
 
