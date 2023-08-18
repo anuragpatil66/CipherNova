@@ -5,25 +5,25 @@ Introducing CipherNova, a powerful file encryption & decryption tool designed to
 
 **Key Features and Benefits:**
 
-    1. **AES and Camellia Encryption:** 
+    1. AES and Camellia Encryption:
           Choose between two leading encryption algorithms - AES and Camellia - both utilizing the secure CBC (Cipher Block Chaining) mode.
 
-    2. **Existing File Encryption:**
+    2. Existing File Encryption:
         - Encrypt your existing files using AES or Camellia encryption for enhanced data protection.
         - Decrypt previously encrypted files effortlessly, ensuring secure access to your sensitive information.
 
-    3. **New Data Encryption:**
+    3. New Data Encryption:
         - Generate encrypted files with ease by providing new data and selecting your preferred encryption algorithm.
         - Safeguard your data with a password of your choice, ensuring only authorized users can access the encrypted content.
 
 **Step-by-Step Usage Guide:**
 
-    1. **AES Encryption:**
+    1. AES Encryption:
         i) Encrypt an existing file using AES encryption, providing the file path and password.
         ii) Decrypt an existing AES-encrypted file, ensuring secure access to the original content.
         iii) Encrypt new data using AES encryption, specifying the data and password.
 
-    2. **Camellia Encryption:**
+    2. Camellia Encryption:
          i) Encrypt an existing file using Camellia encryption, providing the file path and password.
         ii) Decrypt an existing Camellia-encrypted file, ensuring secure access to the original content.
         iii) Encrypt new data using Camellia encryption, specifying the data and password.
